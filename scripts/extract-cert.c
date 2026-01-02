@@ -11,6 +11,7 @@
  * as published by the Free Software Foundation; either version 2.1
  * of the licence, or (at your option) any later version.
  */
+#define OPENSSL_SUPPRESS_DEPRECATED
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
